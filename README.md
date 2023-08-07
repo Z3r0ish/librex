@@ -30,11 +30,14 @@
 | [librex.retro-hax.net](https://librex.retro-hax.net/) | ❌ | ❌ | 🇩🇪 DE |
 | [search.funami.tech](https://search.funami.tech/) | ❌ | ❌ | 🇰🇷 KR |
 | [search.zeroish.xyz](https://search.zeroish.xyz/) | ❌| ❌ | 🇺🇸 US |
+<<<<<<< HEAD
 | [librex.baczek.me](https://librex.baczek.me/) | ❌| ❌ | 🇵🇱 PL |
 | [librex.yogeshlamichhane.com.np](https://librex.yogeshlamichhane.com.np/) | ❌| ❌ | 🇺🇸 US |
 | [lx.benike.monster](https://lx.benike.monster/) | ❌ | ❌ | 🇩🇪 DE |
 | [librex.nohost.network](https://librex.nohost.network/) | ❌ | ❌ | 🇲🇽 MX |
 | [search.decentrala.org](https://search.decentrala.org/) | ❌| ❌ | 🇺🇸 US |
+=======
+>>>>>>> origin/main
 <br>
 
 ### Thanks rms

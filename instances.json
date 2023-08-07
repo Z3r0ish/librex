@@ -124,10 +124,17 @@
               "clearnet": "https://librex.nohost.network/",
               "tor": null,
               "i2p": null,
+<<<<<<< HEAD
               "country": "MX"
           },
           {
               "clearnet": "https://search.decentrala.org/",
+=======
+              "country": "KR"
+          },
+          {
+              "clearnet": "https://search.zeroish.xyz/",
+>>>>>>> origin/main
               "tor": null,
               "i2p": null,
               "country": "US"
